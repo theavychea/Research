@@ -2,7 +2,7 @@
   "meta": {
     "title": "Theavy",
     "subtitle": "",
-    "updated": "2026-10-09T04:24:16.279Z",
+    "updated": "2026-10-09T04:25:41.567Z",
     "comments": {
       "url": "",
       "key": ""
@@ -17,7 +17,22 @@
       "type": "leave",
       "status": "ongoing",
       "color": "#64748b",
-      "stages": []
+      "stages": [
+        {
+          "id": "s_x54sqxpr56",
+          "name": "Sport Day",
+          "notes": "",
+          "conditions": [],
+          "date": "",
+          "endDate": "",
+          "allDay": true,
+          "start": "",
+          "end": "",
+          "kind": "holiday",
+          "outcome": null,
+          "comment": ""
+        }
+      ]
     },
     {
       "id": "p_p6jbdnksfn",
