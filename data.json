@@ -2,7 +2,7 @@
   "meta": {
     "title": "Theavy",
     "subtitle": "",
-    "updated": "2026-10-09T04:26:50.979Z",
+    "updated": "2026-10-09T05:18:03.090Z",
     "comments": {
       "url": "",
       "key": ""
@@ -32,7 +32,9 @@
           "outcome": null,
           "comment": ""
         }
-      ]
+      ],
+      "top": false,
+      "comments": false
     },
     {
       "id": "p_p6jbdnksfn",
@@ -65,6 +67,31 @@
           "conditions": [],
           "date": "2026-10-07",
           "endDate": "2026-10-09",
+          "allDay": true,
+          "start": "",
+          "end": "",
+          "outcome": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": "p_xg8iilikev",
+      "title": "Phase behavior observation",
+      "description": "",
+      "type": "research",
+      "status": "ongoing",
+      "color": "#0ea5e9",
+      "top": false,
+      "comments": false,
+      "stages": [
+        {
+          "id": "s_d6neo5jv7j",
+          "name": "Base line conditions",
+          "notes": "",
+          "conditions": [],
+          "date": "2026-10-20",
+          "endDate": "2026-10-21",
           "allDay": true,
           "start": "",
           "end": "",
