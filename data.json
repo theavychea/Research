@@ -2,7 +2,7 @@
   "meta": {
     "title": "Theavy",
     "subtitle": "",
-    "updated": "2026-10-09T04:25:41.567Z",
+    "updated": "2026-10-09T04:26:50.979Z",
     "comments": {
       "url": "",
       "key": ""
@@ -63,8 +63,8 @@
           "name": "Conditions of phase 1",
           "notes": "",
           "conditions": [],
-          "date": "",
-          "endDate": "",
+          "date": "2026-10-07",
+          "endDate": "2026-10-09",
           "allDay": true,
           "start": "",
           "end": "",
