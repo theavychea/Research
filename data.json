@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "Theavy",
+    "subtitle": "",
+    "updated": "2026-10-09T04:24:16.279Z",
+    "comments": {
+      "url": "",
+      "key": ""
+    },
+    "hiddenComments": []
+  },
+  "projects": [
+    {
+      "id": "p_ys07yzdti2",
+      "title": "Holidays & leave",
+      "description": "",
+      "type": "leave",
+      "status": "ongoing",
+      "color": "#64748b",
+      "stages": []
+    },
+    {
+      "id": "p_p6jbdnksfn",
+      "title": "Research planning",
+      "description": "",
+      "type": "research",
+      "status": "ongoing",
+      "color": "#8b5cf6",
+      "top": false,
+      "comments": false,
+      "stages": [
+        {
+          "id": "s_sxs8qjlil7",
+          "name": "Problem statement",
+          "notes": "",
+          "conditions": [],
+          "date": "",
+          "endDate": "",
+          "allDay": true,
+          "start": "",
+          "end": "",
+          "outcome": "done",
+          "comment": "",
+          "updatedAt": "2026-10-09T04:22:47.967Z"
+        },
+        {
+          "id": "s_4rhk17mtvc",
+          "name": "Conditions of phase 1",
+          "notes": "",
+          "conditions": [],
+          "date": "",
+          "endDate": "",
+          "allDay": true,
+          "start": "",
+          "end": "",
+          "outcome": null,
+          "comment": ""
+        }
+      ]
+    }
+  ]
+}
