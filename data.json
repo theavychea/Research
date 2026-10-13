@@ -2,7 +2,7 @@
   "meta": {
     "title": "Theavy",
     "subtitle": "",
-    "updated": "2026-10-13T08:26:20.048Z",
+    "updated": "2026-10-13T08:29:59.053Z",
     "comments": {
       "url": "",
       "key": ""
@@ -138,6 +138,31 @@
             "ID=1 mm"
           ],
           "date": "",
+          "endDate": "",
+          "allDay": true,
+          "start": "",
+          "end": "",
+          "outcome": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": "p_a0cj4p39hd",
+      "title": "Meeting and Conference",
+      "description": "",
+      "type": "research",
+      "status": "ongoing",
+      "color": "#ec4899",
+      "top": false,
+      "comments": false,
+      "stages": [
+        {
+          "id": "s_h9v2qh5xrf",
+          "name": "261016 - Gr meeting",
+          "notes": "- Research plan \n- Comparison of solvent - Hexane Vs. Squalane \n- Planning & Hypothesis - CO2 ( Pressure & so on)",
+          "conditions": [],
+          "date": "2026-10-16",
           "endDate": "",
           "allDay": true,
           "start": "",
