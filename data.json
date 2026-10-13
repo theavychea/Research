@@ -2,7 +2,7 @@
   "meta": {
     "title": "Theavy",
     "subtitle": "",
-    "updated": "2026-10-09T05:18:03.090Z",
+    "updated": "2026-10-13T05:48:55.016Z",
     "comments": {
       "url": "",
       "key": ""
@@ -66,7 +66,20 @@
           "notes": "",
           "conditions": [],
           "date": "2026-10-07",
-          "endDate": "2026-10-09",
+          "endDate": "2026-10-13",
+          "allDay": true,
+          "start": "",
+          "end": "",
+          "outcome": null,
+          "comment": ""
+        },
+        {
+          "id": "s_tsemoqflxl",
+          "name": "Discussion with Purin san",
+          "notes": "",
+          "conditions": [],
+          "date": "2026-10-13",
+          "endDate": "",
           "allDay": true,
           "start": "",
           "end": "",
