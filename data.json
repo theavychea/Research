@@ -2,7 +2,7 @@
   "meta": {
     "title": "Theavy",
     "subtitle": "",
-    "updated": "2026-10-16T03:13:20.680Z",
+    "updated": "2026-10-16T03:14:01.728Z",
     "comments": {
       "url": "",
       "key": ""
@@ -115,7 +115,7 @@
         {
           "id": "s_mx0zs705a3",
           "name": "Water/Squalane - Flowrate",
-          "notes": "",
+          "notes": "Add more condition - see literature",
           "conditions": [
             "Flowrate ratio 1:1",
             "Flowrate ratio 1:2",
